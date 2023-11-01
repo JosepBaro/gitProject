@@ -1,2 +1,0 @@
-This is a line test for the file 2
-Here is a change previous to be staged from master branch
